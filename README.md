@@ -15,7 +15,7 @@ Version: 2.6                     ***********************************************
   </head>
   <body>
     <hr>
-    <h1 align="center" style="color: blue;">☀️ imaCŁ◎NΞ.sol³¹³ 🌓 <br></h1>
+    <h1 align="center" style="color: blue;"><code>◎</code><strong> imaCŁ◎NΞ.sol³¹³ </strong><code>◎</code><br></h1>
 <!--     <h2 align="center" style="color: blue;">I am -->
     <p align="center">
   <a href="https://imaclone-sol.com"><img src="https://readme-typing-svg.demolab.com/?lines=a%20programmer.;a%20data%20analyst.;addicted%20to%20machine learning.;obsessed%20with%20cryptography.;obsessed%20with%20data%20and%20security.;a%20passionate%20blue%20teamer.;a%20versatile%20specialist.%20&font=Fira%20Code&center=true&width=440&height=45&color=f85149&vCenter=true&size=22&pause=33"></h2>         
@@ -31,6 +31,11 @@ Version: 2.6                     ***********************************************
     </p>
     <div align="center">
       <p>&darr;</p>
+      <p align="center">
+        <a href="https://solana.com">
+          <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
+        </a>
+      </p>
       <div>
         <!--     <a href="https://imaclone-sol.com/resume"><img src="https://img.shields.io/badge/Resume:_-imaclone-sol.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
 <!--         <a href="https://imaclone-sol.com">
@@ -48,7 +53,7 @@ Version: 2.6                     ***********************************************
         <a href="https://imaclone-sol.com">
         </a> -->
         <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
-<!--         <style>
+        <!--         <style>
           @keyframes spin {
             0% {
               transform: rotate(0deg);
@@ -94,10 +99,16 @@ Version: 2.6                     ***********************************************
         <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
       </a>
       <a href="https://github.com/imaclone-sol">
+        <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=blue" alt="Rust">
+      </a>
+      <a href="https://github.com/imaclone-sol">
+        <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
+      </a>
+      <a href="https://github.com/imaclone-sol">
         <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
       </a>
       <a href="https://github.com/imaclone-sol">
-        <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=blue" alt="C #">
+        <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C #">
       </a>
       <br>
       <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
