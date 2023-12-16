@@ -66,8 +66,8 @@ Version: 2.6                     ***********************************************
     <picture>
       <div style="text-align">
         <div align="center">
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
-          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" style="width: 75%; height: 50%;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389">
+          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;">
         </div>
       </div>
     </picture>
@@ -76,8 +76,17 @@ Version: 2.6                     ***********************************************
     <!-- <h1></h1> -->
     <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
     <p align="center">
+    <picture>
+      <div style="text-align">
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png9">
+          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" style="width: 100%; height: 50%;">
+        </div>
+      </div>
+    </picture>
       <!--   <h4 align="center">Programming:</h4><p align="center"> -->
       <!-- Back end Languages -->
+      <p align="center"><br>
       <a href="https://github.com/imaclone-sol">
         <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
       </a>
