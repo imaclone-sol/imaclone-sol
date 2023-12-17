@@ -15,7 +15,13 @@ Version: 2.6                     ***********************************************
   </head>
   <body>
     <hr>
-    <h1 align="center" style="color: blue;"><code>◎</code><strong> imaCŁ◎NΞ.sol³¹³ </strong><code>◎</code><br></h1>
+    <h1 align="center" style="color: blue;">
+    <img src="https://github.com/solana-labs/token-list/blob/main/assets/mainnet/Fbz6tgGFMgeDZdJeGdJ3iC19SjjY8hQPDh51ymXZWYzZ/solana-logo.png" width="30" alt="Solana Logo">
+    <strong>  imaCŁ◎NΞ.sol³¹³ </strong>
+    <img src="https://github.com/solana-labs/token-list/blob/main/assets/mainnet/Fbz6tgGFMgeDZdJeGdJ3iC19SjjY8hQPDh51ymXZWYzZ/solana-logo.png" width="30" alt="Solana Logo">
+    <br>
+    </h1>
+<!--     <h1 align="center" style="color: blue;"><code>◎</code><strong> imaCŁ◎NΞ.sol³¹³ </strong><code>◎</code><br></h1> -->
 <!--     <h2 align="center" style="color: blue;">I am -->
     <p align="center">
   <a href="https://imaclone-sol.com"><img src="https://readme-typing-svg.demolab.com/?lines=a%20programmer.;a%20data%20analyst.;addicted%20to%20machine learning.;obsessed%20with%20cryptography.;obsessed%20with%20data%20and%20security.;a%20passionate%20blue%20teamer.;a%20versatile%20specialist.%20&font=Fira%20Code&center=true&width=440&height=45&color=f85149&vCenter=true&size=22&pause=33"></h2>         
