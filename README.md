@@ -1,7 +1,7 @@
 <!--
 ****************************************************************************************
 Title: README.md                 *******************************************************
-Developed by: Ryan Hatch         *******************************************************
+Developed by: imaCŁ◎NΞ.sol³¹³    *******************************************************
 Last Updated: Dec 14th 2023      *******************************************************
 Version: 2.6                     *******************************************************
 ****************************************************************************************
@@ -24,7 +24,8 @@ Version: 2.6                     ***********************************************
 <!--     <h1 align="center" style="color: blue;"><code>◎</code><strong> imaCŁ◎NΞ.sol³¹³ </strong><code>◎</code><br></h1> -->
 <!--     <h2 align="center" style="color: blue;">I am -->
     <p align="center">
-  <a href="https://imaclone-sol.com"><img src="https://readme-typing-svg.demolab.com/?lines=a%20programmer.;a%20data%20analyst.;addicted%20to%20machine learning.;obsessed%20with%20cryptography.;obsessed%20with%20data%20and%20security.;a%20passionate%20blue%20teamer.;a%20versatile%20specialist.%20&font=Fira%20Code&center=true&width=440&height=45&color=f85149&vCenter=true&size=22&pause=33"></h2>         
+  <a href="https://imaclone-sol.com"><img src="https://readme-typing-svg.demolab.com/?lines=Programmer.;Data%20Analyst.;..Addicted%20to%20machine learning.;..Obsessed%20with%20cryptography.;..Obsessed%20with%20data%20and%20security.%20&font=Fira%20Code&center=true&width=440&height=45&color=00FFA3&vCenter=true&size=22&pause=33"></h2>
+<!-- ;Passionate%20blue%20teamer.;Versatile%20specialist. -->
 <!-- </p>
     <p align="center"> -->
 <!--     <br>
@@ -32,8 +33,8 @@ Version: 2.6                     ***********************************************
     <hr> -->
     <p align="center">
 <!--       <br> -->
-      <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘<br>
-      <br>🔐 Feel free to check out my repositories to learn more. 🔓
+      <b>🔐 web3 ID 🔓 <br>
+      <br>📘 I love everything that is web3 and security. 📘
     </p>
     <div align="center">
       <p>&darr;</p>
