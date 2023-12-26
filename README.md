@@ -21,10 +21,16 @@ Version: 2.6                     ***********************************************
     <img src="https://github.com/solana-labs/token-list/blob/main/assets/mainnet/Fbz6tgGFMgeDZdJeGdJ3iC19SjjY8hQPDh51ymXZWYzZ/solana-logo.png" width="30" alt="Solana Logo">
     <br>
     </h1>
+<!--     <h1 align="center" style="color: blue;">
+    <img src="https://github.com/solana-labs/token-list/blob/main/assets/mainnet/Fbz6tgGFMgeDZdJeGdJ3iC19SjjY8hQPDh51ymXZWYzZ/solana-logo.png" width="30" alt="Solana Logo">
+    <strong>  imaCŁ◎NΞ.sol³¹³ </strong>
+    <img src="https://github.com/solana-labs/token-list/blob/main/assets/mainnet/Fbz6tgGFMgeDZdJeGdJ3iC19SjjY8hQPDh51ymXZWYzZ/solana-logo.png" width="30" alt="Solana Logo">
+    <br>
+    </h1> -->
 <!--     <h1 align="center" style="color: blue;"><code>◎</code><strong> imaCŁ◎NΞ.sol³¹³ </strong><code>◎</code><br></h1> -->
 <!--     <h2 align="center" style="color: blue;">I am -->
     <p align="center">
-  <a href="https://imaclone-sol.com"><img src="https://readme-typing-svg.demolab.com/?lines=Programmer.;Data%20Analyst.;..Addicted%20to%20machine learning.;..Obsessed%20with%20cryptography.;..Obsessed%20with%20data%20and%20security.%20&font=Fira%20Code&center=true&width=440&height=45&color=00FFA3&vCenter=true&size=22&pause=33"></h2>
+  <a href="https://imaclone-sol.com"><img src="https://readme-typing-svg.demolab.com/?lines=Programmer.;Data%20Analyst.;Machine%20Learning..;Cryptography..;Hardening%20Security..%20&font=Fira%20Code&center=true&width=440&height=45&color=00FFA3&vCenter=true&size=30&pause=33"></h2>
 <!-- ;Passionate%20blue%20teamer.;Versatile%20specialist. -->
 <!-- </p>
     <p align="center"> -->
@@ -40,8 +46,9 @@ Version: 2.6                     ***********************************************
       <p>&darr;</p>
       <p align="center">
         <a href="https://solana.com">
-          <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
-        </a>
+          <img alt="Solana" src="https://metaroids.com/wp-content/uploads/2022/08/Cets-on-Creck-Explained-A-Web3-Brand-for-Streets.webp?ezimgfmt=ngcb1/notWebP" />
+<!--                     <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" /> -->
+        </a> 
       </p>
       <div>
         <!--     <a href="https://imaclone-sol.com/resume"><img src="https://img.shields.io/badge/Resume:_-imaclone-sol.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
@@ -59,6 +66,20 @@ Version: 2.6                     ***********************************************
         </a>
         <a href="https://imaclone-sol.com">
         </a> -->
+<!--     <hr> -->
+    <!-- <h1></h1> -->
+    <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
+<!--     <p align="center">
+    <picture>
+      <div style="text-align">
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png9">
+          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" style="width: 100%; height: 50%;">
+        </div>
+      </div>
+    </picture> -->
+      <!--   <h4 align="center">Programming:</h4><p align="center"> -->
+      <!-- Back end Languages -->
         <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
         <!--         <style>
           @keyframes spin {
@@ -79,8 +100,8 @@ Version: 2.6                     ***********************************************
     <picture>
       <div style="text-align">
         <div align="center">
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png9">
-          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" style="width: 100%; height: 50%;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500">
+          <img alt=" " src="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500" style="width: 100%; height: 50%;">
         </div>
       </div>
     </picture>
@@ -93,20 +114,6 @@ Version: 2.6                     ***********************************************
       </div>
     </picture> -->
     <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
-<!--     <hr> -->
-    <!-- <h1></h1> -->
-    <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
-<!--     <p align="center">
-    <picture>
-      <div style="text-align">
-        <div align="center">
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png9">
-          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" style="width: 100%; height: 50%;">
-        </div>
-      </div>
-    </picture> -->
-      <!--   <h4 align="center">Programming:</h4><p align="center"> -->
-      <!-- Back end Languages -->
       <p align="center"><br>
       <a href="https://github.com/imaclone-sol">
         <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
@@ -149,6 +156,40 @@ Version: 2.6                     ***********************************************
       <!-- <br> -->
       <!-- <h1></h1> -->
     <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
+      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+        <!--         <style>
+          @keyframes spin {
+            0% {
+              transform: rotate(0deg);
+            }
+            100% {
+              transform: rotate(360deg);
+            }
+          }
+        </style> -->
+<!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
+        <!--        <h1></h1> -->
+        <br>
+      </div>
+    </div>
+    <p align="center">
+    <picture>
+      <div style="text-align">
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/profile_banners/1520163958816092161/1652380975/1500x500">
+          <img alt=" " src="https://pbs.twimg.com/profile_banners/1520163958816092161/1652380975/1500x500" style="width: 100%; height: 50%;">
+        </div>
+      </div>
+    </picture>
+<!--     <picture>
+      <div style="text-align">
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389">
+          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;">
+        </div>
+      </div>
+    </picture> -->
+    <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
     <p align="center">
     <h3 align="center" style="color: blue;">IDEs <h /3>
         <p align="center">
@@ -225,6 +266,40 @@ Version: 2.6                     ***********************************************
                       <hr>
                       <!-- <h1></h1> -->
                     <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
+                    <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+        <!--         <style>
+          @keyframes spin {
+            0% {
+              transform: rotate(0deg);
+            }
+            100% {
+              transform: rotate(360deg);
+            }
+          }
+        </style> -->
+<!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
+        <!--        <h1></h1> -->
+        <br>
+      </div>
+    </div>
+    <p align="center">
+    <picture>
+      <div style="text-align">
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/profile_banners/1505441994017067009/1683569099/1500x500">
+          <img alt=" " src="https://pbs.twimg.com/profile_banners/1505441994017067009/1683569099/1500x500" style="width: 100%; height: 50%;">
+        </div>
+      </div>
+    </picture>
+<!--     <picture>
+      <div style="text-align">
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389">
+          <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;">
+        </div>
+      </div>
+    </picture> -->
+    <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
                     <p align="center">
                       <a href="https://github.com/imaclone-sol">
                         <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
