@@ -32,7 +32,7 @@ Version: 2.6                     ***********************************************
         <!--     <br><p align="center">Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files.</p><hr> -->
         <p align="center">
           <h3 align="center" style="color: blue;">
-            <strong>🔐📘 WEB3 ID... I love everything web3 and security. 📘🔓</strong>
+            <strong>🔐📘 I love everything web3 and security, and all that ends in .sol or .eth 📘🔓</strong>
           </h3>
         </p>
         <div align="center">
