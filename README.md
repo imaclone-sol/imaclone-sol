@@ -48,6 +48,7 @@ Version: 2.6                     ***********************************************
             <!--         <a href="https://imaclone-sol.com"><img src="https://img.shields.io/badge/Portfolio:_-imaclone-sol.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a><a href="https://github.com/imaclone-sol/imaclone-sol/blob/main/list.md"><img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos"></a><a href="https://imaclone-sol.com/Flappy-Bird"><img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github"></a><a href=mailto:ryan@rshatch.com><img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github"></a><a href="https://imaclone-sol.com"></a> -->
             <!--     <hr> -->
             <!-- <h1></h1> -->
+            <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"                style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
             <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
             <!--     <p align="center"><picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png9"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" style="width: 100%; height: 50%;"></div></div></picture> -->
             <!--   <h4 align="center">Programming:</h4><p align="center"> -->
@@ -92,7 +93,7 @@ Version: 2.6                     ***********************************************
       </a>
       <br>
       <hr>
-      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+<!--       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
       <!--         <style>
           @keyframes spin {
             0% {
@@ -112,13 +113,13 @@ Version: 2.6                     ***********************************************
       <picture>
         <div style="text-align">
           <div align="center">
-            <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/profile_banners/1505441994017067009/1683569099/1500x500">
-            <img alt=" " src="https://pbs.twimg.com/profile_banners/1505441994017067009/1683569099/1500x500" style="width: 100%; height: 50%;">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg">
+            <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg" style="width: 100%; height: 50%;">
           </div>
         </div>
       </picture>
       <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
-      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+<!--       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
       <!-- <br> -->
       <!-- <h1></h1> -->
     <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
