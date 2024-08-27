@@ -109,7 +109,7 @@ Version: 2.6                     ***********************************************
       <br>
       </div>
       </div>
-    <p align="center">
+<!--     <p align="center">
       <picture>
         <div style="text-align">
           <div align="center">
@@ -117,7 +117,7 @@ Version: 2.6                     ***********************************************
             <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg" style="width: 100%; height: 50%;">
           </div>
         </div>
-      </picture>
+      </picture> -->
       <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
 <!--       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
       <!-- <br> -->
@@ -195,9 +195,9 @@ Version: 2.6                     ***********************************************
                         <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue" alt="WireShark">
                       </a>
                       <!--           <a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
-                      <br>
+<!--                       <br>
                       <hr>
-                      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+                      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
                       <!--         <style>
                         @keyframes spin {
                           0% {
@@ -213,7 +213,7 @@ Version: 2.6                     ***********************************************
                       <br>
                       </div>
                       </div>
-                    <p align="center">
+<!--                     <p align="center">
                       <picture>
                         <div style="text-align">
                           <div align="center">
@@ -221,10 +221,10 @@ Version: 2.6                     ***********************************************
                             <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/jngl.jpg" style="width: 100%; height: 50%;">
                           </div>
                         </div>
-                      </picture>
+                      </picture> -->
                       <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
-                      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
-                      <!-- <h1></h1> -->
+<!--                       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+                      <!-- <h1></h1> --> -->
                     <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
                     <p align="center">
                       <a href="https://github.com/imaclone-sol">
@@ -250,7 +250,7 @@ Version: 2.6                     ***********************************************
                         </a>
                     </p>
                     <hr>
-                    <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+<!--                     <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
                     <!--         <style>
           @keyframes spin {
             0% {
