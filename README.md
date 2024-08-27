@@ -25,14 +25,15 @@ Version: 2.6                     ***********************************************
     <!--     <h2 align="center" style="color: blue;">I am -->
     <p align="center">
       <a href="https://imaclone-sol.com">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Programmer.;Data%20Analyst.;Machine%20Learning..;Cryptography..;Hardening%20Security..%20&font=Fira%20Code&center=true&width=440&height=45&color=00FFA3&vCenter=true&size=30&pause=33">
-        </h2>
+            <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.A%20Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">        </h2>
         <!-- ;Passionate%20blue%20teamer.;Versatile%20specialist. -->
         <!-- </p><p align="center"> -->
         <!--     <br><p align="center">Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files.</p><hr> -->
         <p align="center">
           <h3 align="center" style="color: blue;">
             <strong>🔐📘 I love everything web3 and security, and all that ends in .sol or .eth 📘🔓</strong>
+            <br><br>
+            <blockquote>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘<br>Im pursuing a bachelors degree to target working with anything in terms of data security and  offensive- defensive operations.</blockquote>
           </h3>
         </p>
         <div align="center">
@@ -224,7 +225,7 @@ Version: 2.6                     ***********************************************
                       </picture> -->
                       <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
 <!--                       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
-                      <!-- <h1></h1> --> -->
+                      <!-- <h1></h1> -->
                     <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
                     <p align="center">
                       <a href="https://github.com/imaclone-sol">
@@ -331,3 +332,49 @@ Version: 2.6                     ***********************************************
                           <img src="https://komarev.com/ghpvc/?username=imaclone-sol&color=blue&style=flat" alt="Profile Views">
                         </a>
                       </p>
+                      <h3 align="center" style="color: blue;">If youve made it this far, please consider buying me a cup of coffee or a small donation to support my work.</h3>
+                      <p align="center">
+                        <a href="https://ko-fi.com/ryanshatch">
+                          <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi"><hr>
+                      <h2 align="center" style="color: blue;">Send Cryptocurrency Donations Here. :coffee:</h2>
+                      <h5 align="center" style="color: blue;">👇 Select The Native Token For Any of The Below Ecosystems. 👇</h5>
+                      <!-- <h5 align="center" style="color: blue;"><bold> Wallets:</bold></h5> -->
+                      <p align="center">
+                        <a href="https://github.com/ryanshatch">
+                          <!-- <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger" /></a> -->
+                            <!-- <h1></h1> -->
+                            <!-- <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" alt="Coinbase" /></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="Blockchain.com" /> -->
+                            <p align="center">
+                              <a href="https://etherscan.io/address/0x2855d11e643f8ABB0F9fCE47068C3561f3014330">
+                                <img src="https://img.shields.io/badge/$Eth-black?style=for-the-badge&logo=Ethereum&logoColor=blue" alt="Ethereum" />
+                              </a>
+                              <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+                                <img src="https://img.shields.io/badge/$sol-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+                              </a>
+                              <a href="https://mempool.space/address/bc1q26ht6vmnkwyqcr6nrklxr9zh62u7zvcrz0p6cv">
+                                <img src="https://img.shields.io/badge/$btc-black?style=for-the-badge&logo=bitcoin&logoColor=blue" alt="Bitcoin" />
+                              </a>
+                              <a href="https://ftmscan.com/address/0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C">
+                                <img src="https://img.shields.io/badge/$FTM-black?style=for-the-badge&logo=Fantom&logoColor=blue" alt="Fantom" />
+                              </a>
+                              <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+                                <img src="https://img.shields.io/badge/$usdt-black?style=for-the-badge&logo=tether&logoColor=blue" alt="Tether" />
+                              </a>
+                              <br>
+                              <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+                              <img src="https://img.shields.io/badge/$USDC-black?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9Ijg2OTc3Njg0LTEyZGItNDg1MC04ZjMwLTIzM2E3YzI2N2QxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAwMCAyMDAwIj4KICA8cGF0aCBkPSJNMTAwMCAyMDAwYzU1NC4xNyAwIDEwMDAtNDQ1LjgzIDEwMDAtMTAwMFMxNTU0LjE3IDAgMTAwMCAwIDAgNDQ1LjgzIDAgMTAwMHM0NDUuODMgMTAwMCAxMDAwIDEwMDB6IiBmaWxsPSIjMjc3NWNhIi8+CiAgPHBhdGggZD0iTTEyNzUgMTE1OC4zM2MwLTE0NS44My04Ny41LTE5NS44My0yNjIuNS0yMTYuNjYtMTI1LTE2LjY3LTE1MC01MC0xNTAtMTA4LjM0czQxLjY3LTk1LjgzIDEyNS05NS44M2M3NSAwIDExNi42NyAyNSAxMzcuNSA4Ny41IDQuMTcgMTIuNSAxNi42NyAyMC44MyAyOS4xNyAyMC44M2g2Ni42NmMxNi42NyAwIDI5LjE3LTEyLjUgMjkuMTctMjkuMTZ2LTQuMTdjLTE2LjY3LTkxLjY3LTkxLjY3LTE2Mi41LTE4Ny41LTE3MC44M3YtMTAwYzAtMTYuNjctMTIuNS0yOS4xNy0zMy4zMy0zMy4zNGgtNjIuNWMtMTYuNjcgMC0yOS4xNyAxMi41LTMzLjM0IDMzLjM0djk1LjgzYy0xMjUgMTYuNjctMjA0LjE2IDEwMC0yMDQuMTYgMjA0LjE3IDAgMTM3LjUgODMuMzMgMTkxLjY2IDI1OC4zMyAyMTIuNSAxMTYuNjcgMjAuODMgMTU0LjE3IDQ1LjgzIDE1NC4xNyAxMTIuNXMtNTguMzQgMTEyLjUtMTM3LjUgMTEyLjVjLTEwOC4zNCAwLTE0NS44NC00NS44NC0xNTguMzQtMTA4LjM0LTQuMTYtMTYuNjYtMTYuNjYtMjUtMjkuMTYtMjVoLTcwLjg0Yy0xNi42NiAwLTI5LjE2IDEyLjUtMjkuMTYgMjkuMTd2NC4xN2MxNi42NiAxMDQuMTYgODMuMzMgMTc5LjE2IDIyMC44MyAyMDB2MTAwYzAgMTYuNjYgMTIuNSAyOS4xNiAzMy4zMyAzMy4zM2g2Mi41YzE2LjY3IDAgMjkuMTctMTIuNSAzMy4zNC0zMy4zM3YtMTAwYzEyNS0yMC44NCAyMDguMzMtMTA4LjM0IDIwOC4zMy0yMjAuODR6IiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggZD0iTTc4Ny41IDE1OTUuODNjLTMyNS0xMTYuNjYtNDkxLjY3LTQ3OS4xNi0zNzAuODMtODAwIDYyLjUtMTc1IDIwMC0zMDguMzMgMzcwLjgzLTM3MC44MyAxNi42Ny04LjMzIDI1LTIwLjgzIDI1LTQxLjY3VjMyNWMwLTE2LjY3LTguMzMtMjkuMTctMjUtMzMuMzMtNC4xNyAwLTEyLjUgMC0xNi42NyA0LjE2LTM5NS44MyAxMjUtNjEyLjUgNTQ1Ljg0LTQ4Ny41IDk0MS42NyA3NSAyMzMuMzMgMjU0LjE3IDQxMi41IDQ4Ny41IDQ4Ny41IDE2LjY3IDguMzMgMzMuMzQgMCAzNy41LTE2LjY3IDQuMTctNC4xNiA0LjE3LTguMzMgNC4xNy0xNi42NnYtNTguMzRjMC0xMi41LTEyLjUtMjkuMTYtMjUtMzcuNXpNMTIyOS4xNyAyOTUuODNjLTE2LjY3LTguMzMtMzMuMzQgMC0zNy41IDE2LjY3LTQuMTcgNC4xNy00LjE3IDguMzMtNC4xNyAxNi42N3Y1OC4zM2MwIDE2LjY3IDEyLjUgMzMuMzMgMjUgNDEuNjcgMzI1IDExNi42NiA0OTEuNjcgNDc5LjE2IDM3MC44MyA4MDAtNjIuNSAxNzUtMjAwIDMwOC4zMy0zNzAuODMgMzcwLjgzLTE2LjY3IDguMzMtMjUgMjAuODMtMjUgNDEuNjdWMTcwMGMwIDE2LjY3IDguMzMgMjkuMTcgMjUgMzMuMzMgNC4xNyAwIDEyLjUgMCAxNi42Ny00LjE2IDM5NS44My0xMjUgNjEyLjUtNTQ1Ljg0IDQ4Ny41LTk0MS42Ny03NS0yMzcuNS0yNTguMzQtNDE2LjY3LTQ4Ny41LTQ5MS42N3oiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg==" />
+                                </a>
+                              </a>
+                            </p>
+                            <h5 align="center" style="color: blue;">After you select which chain to use, you will then be re-routed to the explorer of the selected blockchain.<br>Always confirm the wallets match before sending.</h5>
+                            <hr>
+                            <h4 align="center" style="color: blue;"><bold> Wallets:</bold></h4><h2></h2>
+                            <p align="center">
+                              <li>$sol: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</code></li>
+                              <li>$eth: <code>0x2855d11e643f8ABB0F9fCE47068C3561f3014330</code></li>
+                              <li>$btc: <code>bc1q26ht6vmnkwyqcr6nrklxr9zh62u7zvcrz0p6cv</code></li>
+                              <li>$ftm: <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
+                              <li>$usdt - (ERC-20): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
+                              <li>$usdc - (ERC-20): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
+                            </p></bold><hr>
+                            <h2></h2>
