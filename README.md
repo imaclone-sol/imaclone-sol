@@ -16,7 +16,7 @@ Version: 2.6.6                   ***********************************************
     <hr>
     <h1 align="center" style="color: blue;">
       <img src="https://github.com/solana-labs/token-list/blob/main/assets/mainnet/Fbz6tgGFMgeDZdJeGdJ3iC19SjjY8hQPDh51ymXZWYzZ/solana-logo.png" width="30" alt="Solana Logo">
-      <strong> imaCŁ◎NΞ.sol³¹³ </strong>
+      <strong> imaCŁ◎NΞ.sol </strong>
       <img src="https://github.com/solana-labs/token-list/blob/main/assets/mainnet/Fbz6tgGFMgeDZdJeGdJ3iC19SjjY8hQPDh51ymXZWYzZ/solana-logo.png" width="30" alt="Solana Logo">
       <br>
     </h1>
@@ -24,7 +24,7 @@ Version: 2.6.6                   ***********************************************
     <!--     <h1 align="center" style="color: blue;"><code>◎</code><strong> imaCŁ◎NΞ.sol³¹³ </strong><code>◎</code><br></h1> -->
     <!--     <h2 align="center" style="color: blue;">I am -->
     <p align="center">
-      <a href="https://imaclone-sol.com">
+      <a href="https://https://tinyurl.com/imaclone-sol">
         <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.A%20Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
         </h2>
         <!-- ;Passionate%20blue%20teamer.;Versatile%20specialist. -->
