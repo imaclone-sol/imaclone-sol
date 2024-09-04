@@ -3,7 +3,7 @@
 Title: README.md                 *******************************************************
 Developed by: imaCŁ◎NΞ.sol³¹³    *******************************************************
 Last Updated: Dec 14th 2023      *******************************************************
-Version: 2.6                     *******************************************************
+Version: 2.6.6                   *******************************************************
 ****************************************************************************************
 -->
 <!DOCTYPE html>
@@ -25,15 +25,17 @@ Version: 2.6                     ***********************************************
     <!--     <h2 align="center" style="color: blue;">I am -->
     <p align="center">
       <a href="https://imaclone-sol.com">
-            <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.A%20Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">        </h2>
+        <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.A%20Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+        </h2>
         <!-- ;Passionate%20blue%20teamer.;Versatile%20specialist. -->
         <!-- </p><p align="center"> -->
         <!--     <br><p align="center">Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files.</p><hr> -->
         <p align="center">
           <h3 align="center" style="color: blue;">
             <strong>🔐📘 I love everything web3 and security, and all that ends in .sol or .eth 📘🔓</strong>
-            <br><br>
-            <blockquote>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘<br>Im pursuing a bachelors degree to target working with anything in terms of data security and  offensive- defensive operations.</blockquote>
+            <br>
+            <br>
+            <blockquote>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘 <br>Im pursuing a bachelors degree to target working with anything in terms of data security and offensive- defensive operations. </blockquote>
           </h3>
         </p>
         <div align="center">
@@ -49,225 +51,197 @@ Version: 2.6                     ***********************************************
             <!--         <a href="https://imaclone-sol.com"><img src="https://img.shields.io/badge/Portfolio:_-imaclone-sol.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a><a href="https://github.com/imaclone-sol/imaclone-sol/blob/main/list.md"><img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos"></a><a href="https://imaclone-sol.com/Flappy-Bird"><img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github"></a><a href=mailto:ryan@rshatch.com><img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github"></a><a href="https://imaclone-sol.com"></a> -->
             <!--     <hr> -->
             <!-- <h1></h1> -->
-            <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"                style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+            <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+            <hr>
+            <!-- <h1></h1> -->
             <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
-            <!--     <p align="center"><picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png9"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" style="width: 100%; height: 50%;"></div></div></picture> -->
-            <!--   <h4 align="center">Programming:</h4><p align="center"> -->
-            <!-- Back end Languages -->
             <p align="center">
-              <br>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=blue" alt="Rust">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C #">
-              </a>
-              <br>
-              <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
-              <!-- Front End Languages -->
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
-              </a>
-              <!--   <a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML"></a><a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS"><a href="https://github.com/imaclone-sol">   -->
-              <!--   <a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
+              <!--   <h4 align="center">Programming:</h4><p align="center"> -->
+              <!-- Back end Languages -->
+              <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+      </a>
+      <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
+      </a>
+      <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
+      </a>
+      <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C #">
+      </a>
+      <a href="https://github.com/imaclone-sol">
+        <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=blue" alt="Rust">
+      </a>
+      <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
+      </a>
+      <!--       </a> -->
+      <br>
+      <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
+      <!-- Front End Languages -->
+      <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      </a>
+      <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </a>
+      <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
+      </a>
+      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
+      </a>
+      <!--   <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML"></a><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS">   -->
+      <!--   <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
       </a>
       <br>
       <hr>
-<!--       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
-      <!--         <style>
-          @keyframes spin {
-            0% {
-              transform: rotate(0deg);
-            }
-            100% {
-              transform: rotate(360deg);
-            }
-          }
-        </style> -->
-      <!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
-      <!--        <h1></h1> -->
-      <br>
-      </div>
-      </div>
-<!--     <p align="center">
-      <picture>
-        <div style="text-align">
-          <div align="center">
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg">
-            <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg" style="width: 100%; height: 50%;">
-          </div>
-        </div>
-      </picture> -->
-      <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
-<!--       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
       <!-- <br> -->
       <!-- <h1></h1> -->
     <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
     <p align="center">
-    <h3 align="center" style="color: blue;">IDEs <h /3>
+    <h2 align="center" style="color: blue;">IDEs: <h /2>
         <p align="center">
-          <a href="https://github.com/imaclone-sol">
-            <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
+          <!--             https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label -->
+          <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
           </a>
           </a>
-          <a href="https://github.com/imaclone-sol">
-            <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=blue" alt="Eclipse">
+          <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=blue" alt="Eclipse">
           </a>
-          <a href="https://github.com/imaclone-sol">
-            <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
+          <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
           </a>
-        <h3 align="center" style="color: blue;">Backend Frameworks <h /3>
+        <h2 align="center" style="color: blue;">Front End Frameworks: <h /2>
             <p align="center">
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
+              <img src="https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
               </a>
+              <img src="https://img.shields.io/badge/Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="JavaSwing">
               </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
+              <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
               </a>
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=blue" alt="Kubernetes">
-              </a>
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=blue" alt="Apache-Maven">
-              </a>
-              </a>
-              <br>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-              </a>
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey">
-              </a>
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-              </a>
-              <!--     <a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/openmediavault-black?style=for-the-badge&logo=openmediavault" alt="OpenMediaVault"></a> -->
-              <a href="https://github.com/imaclone-sol">
-                <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-              </a>
-            <h3 align="center" style="color: blue;">Front End Frameworks <h /3>
+            <h3 align="center" style="color: blue;">Backend Frameworks for Python: <h /3>
                 <p align="center">
-                  <a href="https://github.com/imaclone-sol">
-                    <img src="https://img.shields.io/badge/Python Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
+                  <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
                   </a>
-                  <a href="https://github.com/imaclone-sol">
-                    <img src="https://img.shields.io/badge/Java Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="JavaSwing">
                   </a>
-                  <a href="https://github.com/imaclone-sol">
-                    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
+                  <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
                   </a>
-                <h3 align="center" style="color: blue;">Technologies <h /3>
+                  </a>
+                <h4 align="center" style="color: blue;">Libraries: <h /4>
                     <p align="center">
-                      <a href="https://github.com/imaclone-sol">
-                        <img src="https://img.shields.io/badge/LLMs & AI-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Parted Magic">
+                      <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
                       </a>
-                      <a href="https://github.com/imaclone-sol">
-                        <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
                       </a>
-                      <a href="https://github.com/imaclone-sol">
-                        <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=blue" alt="Parted Magic">
-                      </a>
-                      <a href="https://github.com/imaclone-sol">
-                        <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue" alt="WireShark">
-                      </a>
-                      <!--           <a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
-<!--                       <br>
-                      <hr>
-                      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
-                      <!--         <style>
-                        @keyframes spin {
-                          0% {
-                            transform: rotate(0deg);
-                          }
-                          100% {
-                            transform: rotate(360deg);
-                          }
-                        }
-                      </style> -->
-                      <!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
-                      <!--        <h1></h1> -->
-                      <br>
-                      </div>
-                      </div>
-<!--                     <p align="center">
-                      <picture>
-                        <div style="text-align">
-                          <div align="center">
-                            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/jngl.jpg">
-                            <img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/jngl.jpg" style="width: 100%; height: 50%;">
-                          </div>
-                        </div>
-                      </picture> -->
-                      <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
-<!--                       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
                       <!-- <h1></h1> -->
-                    <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
-                    <p align="center">
-                      <a href="https://github.com/imaclone-sol">
-                        <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
+                      <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
                       </a>
-                      <a href="https://github.com/imaclone-sol">
-                        <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Apple">
                       </a>
-                      <a href="https://github.com/imaclone-sol">
-                        <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=blue" alt="Linux">
-                        <a href="https://github.com/imaclone-sol"></a>
-                        <a href="https://github.com/imaclone-sol">
-                          <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
-                        </a>
-                        <br>
-                        <!--   <a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu"></a><a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian"></a><a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/Mint-black?style=for-the-badge&logo=Linux Mint" alt="Linux Mint"></a><a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora" alt="Fedora"></a><a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/Redhat-black?style=for-the-badge&logo=Redhat" alt="Redhat"></a><br> -->
-                        <!--   <a href="https://github.com/imaclone-sol"><img src="https://img.shields.io/badge/Alpine-black?style=for-the-badge&logo=Alpine-Linux" alt="Alpine Linux"></a> -->
-                        <a href="https://github.com/imaclone-sol">
-                          <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple&logoColor=white" alt="Apple">
-                        </a>
-                        <a href="https://github.com/imaclone-sol">
-                          <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
-                        </a>
-                    </p>
-                    <hr>
-<!--                     <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
-                    <!--         <style>
-          @keyframes spin {
-            0% {
-              transform: rotate(0deg);
-            }
-            100% {
-              transform: rotate(360deg);
-            }
-          }
-        </style> -->
-                    <!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
-                    <!--        <h1></h1> -->
+                    <h1></h1>
+                    <h3 align="center" style="color: blue;">Backend Frameworks for Java: <h /3>
+                        <p align="center">
+                          <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=blue" alt="Apache-Maven">
+                          </a>
+                          </a>
+                          <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=blue" alt="Gradle">
+                          </a>
+                          </a>
+                        <h4 align="center" style="color: blue;">Libraries & APIs: <h /4>
+                            <p align="center">
+                              <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey">
+                              </a>
+                              <img src="https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+                              </a>
+                              </a>
+                              <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
+                              </a>
+                              <hr>
+                            <h2 align="center" style="color: blue;">▫️ Databases, Containerization, & Orchestration ▫️ </h2>
+                            <p align="center">
+                              <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
+                              <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
+                              <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=blue" alt="MongoDB">
+                              </a>
+                              </a>
+                              <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
+                              </a>
+                              <img src="https://img.shields.io/badge/LMs & LLMs-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
+                              <img src="https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=opengl&logoColor=blue" alt="OpenGL">
+                              <a href="https//github.com/ryanshatch">
+                                <img src="https://img.shields.io/badge/travis%20ci-black?style=for-the-badge&logo=travis&logoColor=blue" alt="Travis CI">
+                                <img src="https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=android%20studio&logoColor=blue" alt="Android Studio">
+                              </a>
+                              </a>
+                              <hr>
+                            <h2 align="center" style="color: blue;">▫️ Technologies ▫️ </h2>
+                            <p align="center">
+                              <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=white" alt="Parted Magic">
+                              </a>
+                              <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=white" alt="WireShark">
+                              </a>
+                              <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=white" alt="Dependency Check">
+                            <p align="center">
+                              <a href="https://github.com/ryanshatch.com">
+                                <img src="https://img.shields.io/badge/overleaf-black?style=for-the-badge&logo=OverLeaf&logoColor=blue" alt="OverLeaf" />
+                              </a>
+                              <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=blue" alt="Canva" />
+                              </a>
+                              <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=blue" alt="Figma" />
+                              </a>
+                              <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure" />
+                              </a>
+                              <hr>
+                              <!-- <p align="center"> -->
+                              <!-- Office Tools -->
+                            <h2 align="center" style="color: blue;">▫️ Office Tools ▫️ </h2>
+                            <p align="center">
+                              <img src="https://img.shields.io/badge/Microsoft_Visio-black?style=for-the-badge&logo=microsoft-visio&logoColor=blue" alt="Microsoft Visio" />
+                              </a>
+                              <img src="https://img.shields.io/badge/LibreOffice-black?style=for-the-badge&logo=LibreOffice&logoColor=blue" alt="LibreOffice" />
+                              </a>
+                              <img src="https://img.shields.io/badge/dependabot-black?style=for-the-badge&logo=dependabot&logoColor=blue" alt="Dependabot" />
+                              </a>
+                              <img src="https://img.shields.io/badge/Microsoft_PowerPoint-black?style=for-the-badge&logo=microsoft-powerpoint&logoColor=blue" alt="Microsoft PowerPoint" />
+                              </a>
+                            </p>
+                            <!--           <img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
+                            <!--                           <br><hr> -->
+                            <!-- <h1></h1> -->
+                            <!--                                               <hr> -->
+                            <!--           <img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
+                            <!--                           <br><hr> -->
+                            <!-- <h1></h1> -->
+                            <hr>
+                            <h2 align="center" style="color: blue;">▫️ Operating Systems & Platforms ▫️ </h2>
+                            <!-- <h2> align="center" style="color: white;"></h2>  --->
+                            <p align="center">
+                              <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
+                              </a>
+                              <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Apple">
+                              </a>
+                              <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=blue" alt="Linux">
+                              </a>
+                              <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
+                              </a>
+                              <br>
+                              <!--   <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu"></a><img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian"></a><img src="https://img.shields.io/badge/Mint-black?style=for-the-badge&logo=Linux Mint" alt="Linux Mint"></a><img src="https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora" alt="Fedora"></a><img src="https://img.shields.io/badge/Redhat-black?style=for-the-badge&logo=Redhat" alt="Redhat"></a><br> -->
+                              <!--   <img src="https://img.shields.io/badge/Alpine-black?style=for-the-badge&logo=Alpine-Linux" alt="Alpine Linux"></a> -->
+                              <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
+                              </a>
+                              <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
+                              </a>
+                            </p>
+                            <hr>
+                            <br>
+                            </div>
+                            </div>
+                            <p align="center">
+                              <picture>
+                                <div style="text-align">
+                                  <div align="center">
+                                    <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500">
+                                    <img alt=" " src="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500" style="width: 100%; height: 50%;">
+                                  </div>
+                                </div>
+                              </picture>
+                              <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
+                              <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+                              <!--                     <h1></h1> -->
+                              <!--                     <br> -->
                     <br>
                     </div>
                     </div>
-                    <p align="center">
+<!--                     <p align="center">
                       <picture>
                         <div style="text-align">
                           <div align="center">
@@ -275,9 +249,9 @@ Version: 2.6                     ***********************************************
                             <img alt=" " src="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500" style="width: 100%; height: 50%;">
                           </div>
                         </div>
-                      </picture>
+                      </picture> -->
                       <!--     <picture><div style="text-align"><div align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389"><img alt=" " src="https://github.com/imaclone-sol/imaclone-sol/assets/153891286/05ea06fa-f8e2-48b4-8bf0-72b04aacf389" style="width: 75%; height: 50%;"></div></div></picture> -->
-                      <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+<!--                       <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;"> -->
                       <!--                     <h1></h1> -->
                       <!--                     <br> -->
                     <details>
