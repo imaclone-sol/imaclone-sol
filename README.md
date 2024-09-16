@@ -39,20 +39,25 @@ Version: 2.6.6                   ***********************************************
           </h3>
         </p>
         <div align="center">
-          <p>&darr;</p>
+<!--           <p>&darr;</p> -->
+                      <hr>
           <p align="center">
-            <a href="https://solana.com">
-              <img alt="Solana" src="https://metaroids.com/wp-content/uploads/2022/08/Cets-on-Creck-Explained-A-Web3-Brand-for-Streets.webp?ezimgfmt=ngcb1/notWebP" />
-              <!--                     <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" /> -->
-            </a>
-          </p>
-          <div>
+          <a href="https://solana.com">
+<!--             <iframe 
+              width="100%" 
+              height="600px" 
+              src="https://birdeye.so/tv-widget/degod39zqQWzpG6h4b7SJLLTCFE6FeZnZD8BwHBFxaN?chain=solana&viewMode=pair&chartInterval=3&chartType=CANDLE&chartTimezone=America%2FNew_York&chartLeftToolbar=show&theme=dark&cssCustomProperties=--tv-color-pane-background%3A%231316212b&chartOverrides=mainSeriesProperties.candleStyle.upColor%3A%23ffffff&chartOverrides=mainSeriesProperties.candleStyle.borderUpColor%3A%23ffffff&chartOverrides=mainSeriesProperties.candleStyle.wickUpColor%3A%23ffffff&chartOverrides=mainSeriesProperties.candleStyle.downColor%3A%23000000&chartOverrides=mainSeriesProperties.candleStyle.borderDownColor%3A%23000000&chartOverrides=mainSeriesProperties.candleStyle.wickDownColor%3A%23000000&chartOverrides=paneProperties.backgroundType%3Agradient&chartOverrides=paneProperties.backgroundGradientStartColor%3A%2300000000&chartOverrides=paneProperties.backgroundGradientEndColor%3A%23fffffffc" 
+              frameborder="0" 
+              allowfullscreen>
+            </iframe> -->
+            <img src="https://www.tradingview.com/x/b5AX53jZ/" alt="TradingView Chart" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 1024px; height: auto;" />
+          </a>
             <!--     <a href="https://imaclone-sol.com/resume"><img src="https://img.shields.io/badge/Resume:_-imaclone-sol.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
             <!--         <a href="https://imaclone-sol.com"><img src="https://img.shields.io/badge/Portfolio:_-imaclone-sol.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a><a href="https://github.com/imaclone-sol/imaclone-sol/blob/main/list.md"><img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos"></a><a href="https://imaclone-sol.com/Flappy-Bird"><img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github"></a><a href=mailto:ryan@rshatch.com><img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github"></a><a href="https://imaclone-sol.com"></a> -->
             <!--     <hr> -->
             <!-- <h1></h1> -->
             <img src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
-            <hr>
+<!--             <hr> -->
             <!-- <h1></h1> -->
             <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
             <p align="center">
@@ -230,7 +235,8 @@ Version: 2.6.6                   ***********************************************
                                 <div style="text-align">
                                   <div align="center">
                                     <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500">
-                                    <img alt=" " src="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500" style="width: 100%; height: 50%;">
+                                    <img alt="Solana" src="https://metaroids.com/wp-content/uploads/2022/08/Cets-on-Creck-Explained-A-Web3-Brand-for-Streets.webp?ezimgfmt=ngcb1/notWebP" />
+                                    <!-- <img alt=" " src="https://pbs.twimg.com/profile_banners/1561982062139441152/1679688770/1500x500" style="width: 100%; height: 50%;"> -->
                                   </div>
                                 </div>
                               </picture>
