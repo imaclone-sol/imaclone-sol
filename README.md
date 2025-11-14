@@ -358,7 +358,7 @@ Version: 3.3                     ***********************************************
 
   <p align="center">
     <a href="https://github.com/imaclone-sol">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmaclone-sol&layout=compact&langs_count=10&theme=transparent&exclude_repo=Inventory-Tracker"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaclone-sol&layout=compact&langs_count=10&theme=transparent"
            alt="Top Languages"
            style="width: 50%; height: 50%;">
     </a>
