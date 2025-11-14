@@ -98,9 +98,9 @@ Version: 3.3                     ***********************************************
 <picture>
   <div align="center">
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github.com/imaclone-sol/imaclone-sol.github.io/blob/main/hhi.jpg">
+            srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg">
     <img alt="Header image"
-         src="https://github.com/imaclone-sol/imaclone-sol/blob/main/images/hhi.jpg"
+         src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg"
          style="width: 75%; height: 50%;">
   </div>
 </picture>
@@ -369,10 +369,10 @@ Version: 3.3                     ***********************************************
   <picture>
     <div align="center">
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://github.com/imaclone-sol/Can-You-Even-Triforce/raw/main/1331599477182.jpg"
+              srcset="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg"
               style="width: 100%; height: auto;">
-      <img alt="Triforce"
-           src="https://github.com/imaclone-sol/Can-You-Even-Triforce/raw/main/1331599477182.jpg"
+      <img alt="Cets"
+           src="https://github.com/imaclone-sol/imaclone-sol/blob/main/img/cets.jpg"
            style="width: 200%;">
     </div>
   </picture>
