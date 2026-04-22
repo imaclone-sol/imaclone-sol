@@ -18,7 +18,7 @@ Version: 3.3                     ***********************************************
 
 <h2 align="center" style="color: blue;">I am</h2>
 <p align="center">
-  <a href="https://imacl.one">
+  <a href="https://zencrypt.tech">
     <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"
          alt="Typing roles">
   </a>
@@ -74,13 +74,9 @@ Version: 3.3                     ***********************************************
   </p>
 
   <p align="center">
-    <a href="https://imacl.one">
-      <img src="https://img.shields.io/badge/Portfolio:_-https://imacl.one-blue?style=flat-square&logo=Raspberry%20Pi"
+    <a href="https://zencrypt.tech">
+      <img src="https://img.shields.io/badge/dApp:_-Zencrypt-blue?style=flat-square&logo=Raspberry%20Pi"
            alt="Portfolio">
-    </a>
-    <a href="https://imaclone.pw">
-      <img src="http://img.shields.io/badge/Subscribe-blue?style=flat-square&logo=Playstation"
-           alt="Subscribe">
     </a>
     <a href="mailto:imaclone_eth@protonmail.com">
       <img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger"
